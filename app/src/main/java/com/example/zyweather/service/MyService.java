@@ -8,6 +8,7 @@ import android.os.IBinder;
 public class MyService extends Service {
     @Override
     public IBinder onBind(Intent intent) {
+        //sggf
       return null;
     }
 
